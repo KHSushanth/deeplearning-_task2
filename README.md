@@ -112,6 +112,6 @@ pip install torch torchvision matplotlib numpy seaborn
 ---
 
 ## Author
-Your Name  
-Your USN  
-Your College
+Your Name :K H Sushanth  
+Your USN  :NNM23IS083
+Your College:NMAMIT
